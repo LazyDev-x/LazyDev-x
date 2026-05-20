@@ -10,7 +10,7 @@
 ## 🚀 Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,python,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,python,mysql" />
 </p>
 
 ---
