@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, Hi there i am LazyDev-x</h1>
 
-<!--
-**LazyDev-x/LazyDev-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Frontend & Backend Developer <br>
+⚡ Amante de la tecnología
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,python,nodejs,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
