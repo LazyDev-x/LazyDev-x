@@ -7,6 +7,33 @@
 
 ---
 
+## 🧑‍💻 About Me
+
+```js
+const josue = {
+  name: "Josue",
+  role: "Frontend & Backend Developer",
+  hobbies: ["Programming", "Technology", "Learning new things"],
+  country: "El Salvador"
+}
+```
+
+<p>
+Hola 👋, mi nombre es Josue.  
+Me gusta programar, aprender cosas nuevas y experimentar con tecnología.  
+Actualmente estoy mejorando mis habilidades en desarrollo frontend y backend 🚀
+</p>
+
+---
+
+## 🖼️ Preview / Imagen
+
+<p align="center">
+  <img src="./img/profile.png" width="400px" alt="preview"/>
+</p>
+
+---
+
 ## 🚀 Skills
 
 <p>
@@ -17,6 +44,20 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Socials
+
+<p>
+  <a href="https://github.com/TUUSUARIO">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
