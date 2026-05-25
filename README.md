@@ -71,50 +71,8 @@
 </div>
 
 ---
-
-### 🌐 Conectemos
-
-<div align="left">
-  <a href="https://github.com/Dayroth" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=9d00ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github"/>
-  </a>
-  <img width="6" />
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=9d00ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram"/>
-  </a>
-  <img width="6" />
-  <a href="https://linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=9d00ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin"/>
-  </a>
-  <img width="6" />
-  <a href="mailto:tucorreo@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=9d00ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail"/>
-  </a>
-  <img width="6" />
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=9d00ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord"/>
-  </a>
-</div>
-
 ---
-
-### 🐍 Contribuciones
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dayroth/Dayroth/snake-output/snake.svg" alt="Snake animation"/>
-</div>
-
 ---
-
-### 💬 Quote
-
-<div align="center">
-
-> "No se trata de tener tiempo, se trata de hacerlo."
-
-</div>
-
-<div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=9d00ff&height=100&section=footer)
 
