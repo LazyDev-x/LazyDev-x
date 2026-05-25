@@ -27,6 +27,20 @@ const josue = {
 
 ---
 
+## 🖼️ Preview
+
+<div align="center">
+
+<img src="./img/profile.png" width="350px" alt="preview"/>
+
+</div>
+
+<p align="center">
+💗 Aquí puedes poner una imagen tuya, logo, setup o cualquier cosa aesthetic
+</p>
+
+---
+
 ## 💖 Skills
 
 <div align="center">
