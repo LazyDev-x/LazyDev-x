@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FF4DA6&center=false&vCenter=true&width=700&lines=console.log(%22Hola+Mundo+%F0%9F%92%97%22);Frontend+%26+Backend+Developer;Construyendo+cosas+random+%F0%9F%9A%80;Aprendiendo+y+mejorando+cada+d%C3%ADa;C%C3%B3digo%2C+m%C3%BAsica+y+caf%C3%A9+%E2%98%95" alt="Typing SVG" />
 
 ---
+<img align="right" height="180" src="[https://i.imgflip.com/65efzo.gif](https://imgur.com/gallery/happy-towel-day-9vKfTX3#/t/funny)" />
 
 ## 🌸 Sobre mí
 
