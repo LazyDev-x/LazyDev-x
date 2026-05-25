@@ -1,79 +1,93 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=9d00ff&height=200&section=header&text=DAYROTH&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=ff4da6&height=250&section=header&text=LazyDev-x&fontSize=65&fontColor=ffffff&animation=fadeIn)
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D00FF&width=600&lines=Bienvenido+a+mi+perfil...+o+lo+que+sea+esto+%F0%9F%A4%A1;Soy+Dayroth%2C+s%C3%AD%2C+el+del+c%C3%B3digo+%E2%98%95%F0%9F%92%BB;Backend+dev+en+construcci%C3%B3n+%F0%9F%94%A7+(no+tocar);Java+%2B+Spring+Boot+%2B+caf%C3%A9+%3D+yo+funcionando;Si+lees+esto%2C+dame+una+estrella+pls+%F0%9F%99%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FF4DA6&center=false&vCenter=true&width=700&lines=console.log(%22Hola+Mundo+%F0%9F%92%97%22);Frontend+%26+Backend+Developer;Construyendo+cosas+random+%F0%9F%9A%80;Aprendiendo+y+mejorando+cada+d%C3%ADa;C%C3%B3digo%2C+m%C3%BAsica+y+caf%C3%A9+%E2%98%95" alt="Typing SVG" />
 
 ---
 
-<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif" />
+## 🌸 Sobre mí
 
-### 👤 Sobre mí
+```js
+const josue = {
+  nickname: "LazyDev-x",
+  role: "Frontend & Backend Developer",
+  passion: ["Coding", "Technology", "UI Design"],
+  status: "Learning something new everyday 🚀"
+}
+```
 
-- 🎓 Estudiante de desarrollo apasionado por crear soluciones
-- 💻 Enfocado en *Backend* con *Java* y *Spring Boot*
-- ⚙️ Me gusta aprender cosas nuevas y enfrentar desafíos
-- ☕ Café + Código = Productividad
-- 🎯 Objetivo: *Ser el mejor* 🏆
-- 🌱 Actualmente aprendiendo: *Spring Security, APIs REST*
-
-<br clear="both"/>
+- 💻 Me gusta crear proyectos y experimentar
+- ⚡ Fan de la tecnología y el diseño minimalista
+- 🌸 Siempre aprendiendo nuevas cosas
+- ☕ Sobreviviendo a base de café y código
+- 🎯 Meta: mejorar cada día como developer
 
 ---
 
-### 📊 Mi Nivel Como Dev
+## 💖 Skills
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-70%25-9d00ff?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d0015)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-60%25-9d00ff?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0d0015)
-![SQL](https://img.shields.io/badge/SQL-65%25-9d00ff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d0015)
-![JavaScript](https://img.shields.io/badge/JavaScript-50%25-9d00ff?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d0015)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-75%25-9d00ff?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0015)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff4da6?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ff4da6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-ff4da6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ff4da6?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff4da6?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-ff4da6?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
+
+---
+
+## 🛠️ Tools
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Repositorios-2-9d00ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0015)
-![Commits](https://img.shields.io/badge/Commits-28-9d00ff?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0015)
-![Level](https://img.shields.io/badge/Level-Junior_Dev-9d00ff?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d0015)
-![Status](https://img.shields.io/badge/Estado-En_Construcci%C3%B3n_🔧-9d00ff?style=for-the-badge&logoColor=white&labelColor=0d0015)
+<img src="https://skillicons.dev/icons?i=js,html,css,java,python,mysql,git,github,vscode" />
 
 </div>
 
 ---
 
-### 🛠️ Tecnologías
+## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" title="Java"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" title="Spring Boot"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" title="PostgreSQL"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" title="MySQL"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" title="GitHub"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" title="VS Code"/>
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical&title_color=ff4da6&icon_color=ff4da6&text_color=ffffff&bg_color=0d1117"/>
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=radical&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6&background=0d1117"/>
+
 </div>
 
 ---
----
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/TUUSUARIO">
+<img src="https://img.shields.io/badge/GitHub-ff4da6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=9d00ff&height=100&section=footer)
+<div align="center">
+
+### 💬 Quote
+
+_"Dream it. Code it."_ 💗
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=ff4da6&height=120&section=footer)
 
 </div>
