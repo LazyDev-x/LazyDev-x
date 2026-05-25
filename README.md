@@ -57,7 +57,7 @@ Actualmente estoy mejorando mis habilidades en desarrollo frontend y backend ğŸš
 ## ğŸŒ Socials
 
 <p>
-  <a href="https://github.com/TUUSUARIO">
+  <a href="https://github.com/LazyDev-x">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
